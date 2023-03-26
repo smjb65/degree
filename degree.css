@@ -1,0 +1,47 @@
+body {
+    background: url(./27147.jpg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+.asli {
+    margin-top: 9rem;
+    text-align: center;
+}
+#h1 {
+    font-size: 6rem;
+}
+#input {
+    margin-top: 5rem ;
+    width: 20rem;
+    height: 2rem;
+    border-radius: 50px;
+    font-size: 2rem;
+    text-align: center;
+}
+.button {
+    position: relative;
+    left: -2rem;
+    top: -3rem;
+    margin-top: 5rem ;
+    /* width: 20rem;
+    height: 2rem; */
+}
+button {
+    background-color: rgba(57, 211, 190, 0.822);width: 8rem;
+    font-size: 2rem;
+    margin-left: 2rem;
+    border-radius: 50px;
+    color: rgb(0, 0, 0);
+} 
+#reset {
+    background-color: rgb(43, 255, 0);width: 5.5rem;
+    font-size: 2rem;  
+    margin-left: 2rem;
+    border-radius: 50px;
+}
+#convert {
+    background-color: gold;width: 8rem; 
+}
+
